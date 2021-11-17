@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ospic 👋
 Ospic is a web based Hospital Management system. By the time of writing this ospic was still under development and capable of managing the following parts of healthy organization:-
 
 <!--
