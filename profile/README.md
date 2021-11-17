@@ -1,24 +1,6 @@
 ## Hi there 👋
 Ospic is a web based Hospital Management system. By the time of writing this ospic was still under development and capable of managing the following parts of healthy organization:-
-- Patient
-  - Outpatient department
-  - In-patient department
-  - Patient records
-  - Doctor + Patient appointment
-- Inventory
-- Pharmarcy
-  - Medicine's
-  - Blood bank
-  - Wards and Beds
-- Laboratory
-- Radiology
-- Oragnization
-   -  Staffs
-   -  Departments
-- Finance
-   - Service bills
-   - Transaction tracking system
-   - Financial reports
+
 <!--
  
 **Here are some ideas to get you started:**
