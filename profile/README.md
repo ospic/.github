@@ -2,9 +2,9 @@
 Ospic is a web based Hospital Management system. 
 List of tasks we are working on and completed :-
 
-[x]   Start the project.
-[x] Design
-[x] Create repositoties
+- [x] Start the project.
+- [x] Design
+- [x] Create repositoties
 
 <!--
  
