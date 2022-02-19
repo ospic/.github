@@ -12,4 +12,4 @@ List of tasks we are working on and completed :-
 - [x] Design logo
 - [x] Modify monolithic platform to Multi-tenant platform
 - [x] Modify web app to support mult tenancy
-- [ ] 
+- [ ] Configure wildcard domains in server
