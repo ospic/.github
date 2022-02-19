@@ -1,6 +1,7 @@
 List of tasks we are working on and completed :-
-
-- [x] Project initiations.
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+|- [x] Project initiations.| ||
 - [x] Project Design.
 - [x] Create projects repositories.
 - [x] Develope first monolithic platform.
