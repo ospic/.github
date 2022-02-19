@@ -21,3 +21,4 @@ List of tasks we are working on and completed :-
 - [ ] Configure platform access from domain name.
 - [ ] First release of web app.
 - [ ] Break platform into mult-modules.
+- [ ] Multi-module communication
