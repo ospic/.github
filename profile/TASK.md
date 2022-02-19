@@ -19,5 +19,5 @@ List of tasks we are working on and completed :-
 
 - [ ] Self service mobile app support multi-tenancy.
 - [ ] Configure platform access from domain name.
-- [ ] 
+- [ ] First release of web app.
 - [ ] Break platform into mult-modules.
