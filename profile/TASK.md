@@ -1,7 +1,6 @@
 List of tasks we are working on and completed :-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-|- [x] Project initiations.| ||
+
+- [x] Project initiations.
 - [x] Project Design.
 - [x] Create projects repositories.
 - [x] Develope first monolithic platform.
@@ -20,5 +19,5 @@ List of tasks we are working on and completed :-
 
 - [ ] Self service mobile app support multi-tenancy.
 - [ ] Configure platform access from domain name.
-- [ ] First release of web app.
+- [ ] 
 - [ ] Break platform into mult-modules.
