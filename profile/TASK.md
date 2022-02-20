@@ -5,6 +5,7 @@ List of tasks we are working on and completed :-
 - [x] Create projects repositories.
 - [x] Develope first monolithic platform.
 - [x] Start develop web application.
+- [x] Dashboard overview.
 - [x] Patient management.
     - [x]  Patient registration
     - [x] Appointments
@@ -17,9 +18,24 @@ List of tasks we are working on and completed :-
     - [x] Wards
     - [x] Beds
 - [x] Finance management.
-- [x] Organization and users
+    - [x] Finance dashboard.
+    - [x] Bills.
+    - [x] Transactions management.
+- [x] Organization and users.
+    - [x] Staffs.
+    - [x] Departments.
+    - [x] Insurances.
 - [x] Self-service users amanagement.
 - [x] Organization calendar.
+    - [x] Calendar events
+- [x] System settings.
+    - [x] System users.
+    - [x] Self-service users.
+    - [x] Roles.
+    - [x] SMS configurations.
+    - [x] Email configurations.
+    - [x] Themes.
+    - [x] Other system configurations.
 - [x] Reports view and export.
 - [x] Start development of self service mobile app.
 - [x] Connect self-service app with user account.
