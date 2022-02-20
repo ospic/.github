@@ -18,9 +18,14 @@ List of tasks we are working on and completed :-
     - [x] Wards
     - [x] Beds
 - [x] Finance management.
+    <details>
+    <summary> More</summary>
+
     - [x] Finance dashboard.
     - [x] Bills.
     - [x] Transactions management.
+    
+    </details>
 - [x] Organization and users.
     - [x] Staffs.
     - [x] Departments.
