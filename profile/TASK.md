@@ -77,6 +77,18 @@ List of tasks we are working on and completed :-
 - [x] Design logo.
 - [x] Modify monolithic platform to Multi-tenant platform.
 - [x] Modify web app to support multi-tenancy.
+- [x] Break platform into mult-modules.
+    <details>
+    <summary> View More</summary>
+    
+    - [x] Create payment module
+    - [ ] Self service user management module
+    - [ ] Finance management module
+    - [ ] Pharmacy and store module
+    - [x] Multi-module communication
+
+    </details>
+
 - [ ] Configure wildcard domains in server.
 - [ ] Payment integration.
 - [ ] First functional testing.
@@ -84,5 +96,4 @@ List of tasks we are working on and completed :-
 - [ ] Self service mobile app support multi-tenancy.
 - [x] Configure platform access from domain name.
 - [ ] First release of web app.
-- [ ] Break platform into mult-modules.
-- [ ] Multi-module communication
+
