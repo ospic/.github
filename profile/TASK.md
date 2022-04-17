@@ -84,7 +84,7 @@ List of tasks we are working on and completed :-
     - [x] Create payment module
     - [ ] Self service user management module
     - [ ] Finance management module
-    - [ ] Pharmacy and store module
+    - [ ] Pharmacy and Inventory management module
     - [x] Multi-module communication
 
     </details>
